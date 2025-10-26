@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Chirag 👋
 
-<!--
-**chirag-says/chirag-says** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Developer, Founder, and Entrepreneur-in-training. My profile is my journey of building an empire from the ground up.
 
-Here are some ideas to get you started:
+- 💻 I'm a CSE student with a passion for [FinTech, AI, etc.].
+- 🚀 I'm currently building [a new tool for students"] in stealth mode.
+- 🔥 My philosophy: "Karke he dikhana hai"
+- 📫 How to reach me: **[https://www.linkedin.com/in/chirag-baldia]**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### My Tech Stack
+[JS] [React] [Node.js] [Python] [MongoDB] [Git]
