@@ -1,10 +1,10 @@
 # Hi, I'm Chirag 👋
 
-[cite_start]I'm a Developer, Founder, and **Entrepreneur** specializing in **Full-Stack AI & IoT Application Development**[cite: 5, 8]. My profile is my journey of building an empire from the ground up, one project at a time.
+I'm a Developer, Founder, and **Entrepreneur** specializing in **Full-Stack AI & IoT Application Development**. My profile is my journey of building an empire from the ground up, one project at a time.
 
-* 💻 I'm a final-year B.E. [cite_start]Computer Science student at Atria Institute of Technology, graduating in May 2025[cite: 51, 52, 61].
-* [cite_start]💡 As an **SDE Intern** at COMEDKARES, I led a team of 4  [cite_start]and engineered an IoT vitals monitoring system that **reduced critical emergency response times by 40%**.
-* 🚀 My passion is building data-intensive, cloud-native solutions. [cite_start]I've built projects in **FinTech** (`Abhizu Wealth` [cite: 36][cite_start]), **AI/Misinformation** (`DeFraudAI` [cite: 30][cite_start]), and **HealthTech** (`SRCISH` [cite: 41]).
+* 💻 I'm a final-year B.E. Computer Science student at Atria Institute of Technology, graduating in May 2025.
+* 💡 As an **SDE Intern** at COMEDKARES, I led a team of 4 and engineered an IoT vitals monitoring system that **reduced critical emergency response times by 40%**.
+* 🚀 My passion is building data-intensive, cloud-native solutions. I've built projects in **FinTech** (`Abhizu Wealth`), **AI/Misinformation** (`DeFraudAI`), and **HealthTech** (`SRCISH`).
 * 🔥 My philosophy: **"Karke he dikhana hai"**
 * 📫 How to reach me:
 
