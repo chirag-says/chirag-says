@@ -1,6 +1,6 @@
 # Hi, I'm Chirag 👋
 
-I'm a Developer, Founder, and **Entrepreneur** specializing in **Full-Stack AI & IoT Application Development**. My profile is my journey of building an empire from the ground up, one project at a time.
+I'm a Developer, Founder, and **Entrepreneur** specializing in **Full-Stack , AI & IoT Application Development**. My profile is my journey of building an empire from the ground up, one project at a time.
 
 * 💻 I'm a Third Year B.E. Computer Science student at Atria Institute of Technology, graduating in May 2025.
 * 💡 As an **SDE Intern** at COMEDKARES, I led a team of 4 and engineered an IoT vitals monitoring system that has the potential to **reduced critical emergency response times by 40%**.
